@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+}
+
+navbar{
+    display: flex;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+}
+.img{
+    margin: 15px;
+}
+.head{
+    padding-top: 5px;
+    font-family: 'Inter';
+font-style: normal;
+color: white;
+    margin-left: auto;
+}
+.name{
+    color: white;
+    font-family: 'Karla';
+font-style: normal;
+}
+main{
+    display: grid;
+    
+    padding: 30px;
+}
+.form{
+    display: grid;
+    grid-template: 40px 40px / 1fr 1fr;
+    gap: 17px;
+}
+.form--button{
+    color: white;
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    border-radius: 5px;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    grid-column: 1 / -1;
+    border: none;
+}
+.form--input{
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 400;
+    color:  #0D0D0D;
+}

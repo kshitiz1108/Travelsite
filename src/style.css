@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(37, 41, 65);
+}
+about{
+    color: white;
+}
+interest{
+    color: white;
+}
+.class1{
+    font-size: 30px;
+    margin-left: 32%;
+    margin-top: auto;
+    color: white;
+}
+.class2{
+    margin-left: 36%;
+    margin-top: -10px;
+    color: orange;
+}
+.class3{
+    margin-left: 40%;
+   
+    color: white;
+}
+button{
+    font-size: 15px;
+    align-items: center;
+   padding : 10px 50px;
+   border-radius: 10px;
+   margin-left: 80px;
+   
+}
+.c1{
+    
+    color: black;
+    background-color: antiquewhite;
+    
+}
+.c2{
+    color: #FFFFFF;
+    background-color: #0A66C2;
+}
+foot{
+
+    margin: 35%;
+    
+    background-color: gray;
+}

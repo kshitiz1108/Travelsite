@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+navbar{
+   
+    
+    display: flex;
+    background-color: #FFFFFF;
+    padding: 20px 25px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+hero{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.class{
+   align-self: center;
+}
